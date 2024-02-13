@@ -44,4 +44,16 @@ names_new = names.replace('harry', firt_name)
 
 list_names_three = names_new.split(',')
 
+#Exercise 7
 
+email_context =f"""
+Bienvenida a nuestra familia 
+
+Por la información aportada usted tiene, {age} años.
+Hay muchos miembros con edades cercanas a usted.
+Espero pueda disfrutar de las actividades que se organizan 
+en función de las edades en su entorno más cercano.
+
+Un saludo
+Dpto. Relaciones Sociales
+"""
