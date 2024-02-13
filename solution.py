@@ -8,3 +8,9 @@ name_list = ['Maria', 'Antonia', 'Sofia']
 #Exercise 2
 
 first_three_letters = string_new[0:3]
+
+
+#Exercise 3
+
+first_element = name_list[0]
+print(first_element)
