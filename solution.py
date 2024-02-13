@@ -19,3 +19,9 @@ first_element = name_list[0]
 
 new_age = age + 10
 
+#Exercise 5
+#Si sé cuantos elementos tiene la lista
+last_element = name_list[2]
+
+#si no sé cuantos elementos tiene la lista o por defecto puedo usar el -1
+last_element_two = name_list[-1]
