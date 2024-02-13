@@ -25,3 +25,12 @@ last_element = name_list[2]
 
 #si no sé cuantos elementos tiene la lista o por defecto puedo usar el -1
 last_element_two = name_list[-1]
+
+#Exercise 6
+names = 'harry,alex,susie,jared,gail,conner'
+
+#Si la lista la quiero de un solo elemento compuesto por todos los nombres que hay en la variable names.
+list_names = names.split()
+
+#Si la lista la quiero de tantos elementos como nombres tiene el string names.
+list_names_two = names.split(',')
